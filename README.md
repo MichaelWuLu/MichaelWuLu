@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelWuLu aka @Milu and @Murzak
 - 👀 I’m interested in games and entertainment
-- 🌱 I’m currently studying software engieneering and following guides to better understand coding
+- :mortar_board: I have my batchelors degree in software engieneering from The University of Agder
 - 💞️ I’m fying solo for now, but feel free to contact me
 - 📫 How to reach me:
   - Email: michaelwulu@gmail.com
